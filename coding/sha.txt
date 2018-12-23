@@ -1,0 +1,8 @@
+1. File -new opens a new instance of codebook
+2. File -open opens file to read
+
+
+java Library :-
+
+
+http://www.sunjava.com
